@@ -1,0 +1,23 @@
+{
+  "name": "@quiteer/eslint-config",
+  "version": "0.0.5",
+  "description": "eslint 便捷配置 , 基于 antfu之上",
+  "author": "quiteer",
+  "license": "ISC",
+  "main": "index.js",
+  "homepage": "https://github.com/QuiteerJs/eslint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuiteerJs/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuiteerJs/eslint-config/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@antfu/eslint-config": "^0.29.3"
+  }
+}
